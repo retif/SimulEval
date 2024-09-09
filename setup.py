@@ -35,7 +35,7 @@ setup(
         "requests",
         "pytest-flake8",
         "textgrid",
-        "tqdm==4.64.1",
+        "tqdm==4.66.1",
         "pyyaml",
         "bitarray==2.6.0",
         "yt-dlp",
